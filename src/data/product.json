@@ -38,5 +38,65 @@
     "status": true,
     "category": "comestibles",
     "thumbnails": []
+  },
+  {
+    "id": 5,
+    "title": "leche",
+    "description": "entera",
+    "code": 1004,
+    "price": 2000,
+    "status": true,
+    "category": "comestibles",
+    "thumbnails": []
+  },
+  {
+    "id": 6,
+    "title": "pan",
+    "description": "fresco",
+    "code": 1005,
+    "price": 1500,
+    "status": true,
+    "category": "comestibles",
+    "thumbnails": []
+  },
+  {
+    "id": 7,
+    "title": "queso",
+    "description": "cremoso",
+    "code": 1006,
+    "price": 4500,
+    "status": true,
+    "category": "comestibles",
+    "thumbnails": []
+  },
+  {
+    "id": 8,
+    "title": "yogur",
+    "description": "natural",
+    "code": 1007,
+    "price": 1800,
+    "status": true,
+    "category": "comestibles",
+    "thumbnails": []
+  },
+  {
+    "id": 9,
+    "title": "manteca",
+    "description": "de cerdo",
+    "code": 1008,
+    "price": 2200,
+    "status": true,
+    "category": "comestibles",
+    "thumbnails": []
+  },
+  {
+    "id": 10,
+    "title": "sal",
+    "description": "fina",
+    "code": 1009,
+    "price": 800,
+    "status": true,
+    "category": "comestibles",
+    "thumbnails": []
   }
 ]
